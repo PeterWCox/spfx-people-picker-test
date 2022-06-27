@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "spfx-people-picker-test",
+    "libraryId": "1ed226bc-df4f-4eb3-b6d2-68e7847d3c8e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-people-picker-test",
+    "solutionShortDescription": "spfx-people-picker-test description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

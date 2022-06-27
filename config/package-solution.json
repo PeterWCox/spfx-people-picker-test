@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-people-picker-test-client-side-solution",
+    "id": "1ed226bc-df4f-4eb3-b6d2-68e7847d3c8e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-people-picker-test description"
+      },
+      "longDescription": {
+        "default": "spfx-people-picker-test description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-people-picker-test Feature",
+        "description": "The feature that activates elements of the spfx-people-picker-test solution.",
+        "id": "d8cd1731-51df-462e-80d5-c1b308ddcf77",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-people-picker-test.sppkg"
+  }
+}
